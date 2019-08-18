@@ -1,0 +1,20 @@
+.all {
+    text-align: center;
+    color: blacks;
+    font-family: 'Lexend Deca', sans-serif;
+}
+
+h1,
+label {
+    color: black;
+}
+
+body {
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8hVFWo76kBWbob44xQ78SdlItsN2aGYptpfnd6WRpHKjFUb3F");
+    background-size: 100%;
+    margin-top: 25px;
+}
+
+.error {
+    color: red;
+}
